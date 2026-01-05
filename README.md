@@ -12,7 +12,7 @@ I carried out exploratory data analysis to explore relationships between feature
 
 Modeling Approach
 
-I trained and compared Linear Regression, Ridge Regression, and LASSO Regression models using an 80/20 train–test split. I specifically applied regularization techniques—L2 regularization with Ridge and L1 regularization with LASSO—to reduce overfitting and improve model stability.
+I trained and compared Linear Regression, Ridge Regression, and LASSO Regression models using an 80/20 train–test split. I specifically applied regularization techniques, L2 regularization with Ridge and L1 regularization with LASSO—to reduce overfitting and improve model stability.
 
 Model Evaluation
 
